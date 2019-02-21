@@ -1,0 +1,19 @@
+components:
+  - component: A
+    requires:
+      - D
+      - E
+  - component: C
+    requires:
+      - B
+  - component: D
+    requires:
+      - B
+  - component: E
+    requires:
+      - F
+  - component: F
+    requires:
+  - component: B
+    requires:
+      - D

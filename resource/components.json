@@ -1,0 +1,35 @@
+{
+  "components": [
+    {
+      "component": "A",
+      "requires": [
+        "D",
+        "E"
+      ]
+    },
+    {
+      "component": "C",
+      "requires": [
+        "B"
+      ]
+    },
+    {
+      "component": "D",
+      "requires": [
+        "B"
+      ]
+    },
+    {
+      "component": "E",
+      "requires": null
+    },
+    {
+      "component": "F",
+      "requires": null
+    },
+    {
+      "component": "B",
+      "requires": null
+    }
+  ]
+}
