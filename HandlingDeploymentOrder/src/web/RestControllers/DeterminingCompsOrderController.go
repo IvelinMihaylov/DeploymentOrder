@@ -5,8 +5,8 @@ import (
 	"gopkg.in/yaml.v2"
 	"io/ioutil"
 	"net/http"
-	"practice-repo/HandlingDeploymentOrder/src/models"
-	"practice-repo/HandlingDeploymentOrder/src/service"
+	"HandlingDeploymentOrder/src/models"
+	"HandlingDeploymentOrder/src/service"
 	"strings"
 	"time"
 )
