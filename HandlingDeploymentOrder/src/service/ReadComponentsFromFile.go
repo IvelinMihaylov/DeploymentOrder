@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"gopkg.in/yaml.v2"
 	"io/ioutil"
-	"practice-repo/HandlingDeploymentOrder/src/models"
+	"HandlingDeploymentOrder/src/models"
 )
 
 func ReadComponentsFromFile(path string) (*models.Components, error) {
