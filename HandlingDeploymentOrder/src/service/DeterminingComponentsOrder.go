@@ -2,7 +2,7 @@ package service
 
 import (
 	"fmt"
-	"practice-repo/HandlingDeploymentOrder/src/models"
+	"HandlingDeploymentOrder/src/models"
 	"strings"
 )
 
