@@ -1,7 +1,7 @@
 package service
 
 import (
-	"practice-repo/HandlingDeploymentOrder/src/models"
+	"HandlingDeploymentOrder/src/models"
 	"strings"
 	"testing"
 )
