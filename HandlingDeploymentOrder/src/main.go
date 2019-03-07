@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 	"net/http"
-	"practice-repo/HandlingDeploymentOrder/src/web/RestControllers"
+	"HandlingDeploymentOrder/src/web/RestControllers"
 )
 
 func main() {
